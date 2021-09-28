@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ATVitor2\ATVitorCore\obj\Debug\net5.0\ATVitorCore.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ATVitor2\ATVitorCore\obj\Debug\net5.0\ATVitorCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ATVitor2\ATVitorCore\obj\Debug\net5.0\ATVitorCore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ATVitor2\ATVitorCore\obj\Debug\net5.0\ATVitorCore.AssemblyInfo.cs
+C:\Users\User\source\repos\ATVitor2\ATVitorCore\obj\Debug\net5.0\ATVitorCore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ATVitor2\ATVitorCore\bin\Debug\net5.0\ATVitorCore.deps.json
+C:\Users\User\source\repos\ATVitor2\ATVitorCore\bin\Debug\net5.0\ATVitorCore.dll
+C:\Users\User\source\repos\ATVitor2\ATVitorCore\bin\Debug\net5.0\ref\ATVitorCore.dll
+C:\Users\User\source\repos\ATVitor2\ATVitorCore\bin\Debug\net5.0\ATVitorCore.pdb
+C:\Users\User\source\repos\ATVitor2\ATVitorCore\obj\Debug\net5.0\ATVitorCore.dll
+C:\Users\User\source\repos\ATVitor2\ATVitorCore\obj\Debug\net5.0\ref\ATVitorCore.dll
+C:\Users\User\source\repos\ATVitor2\ATVitorCore\obj\Debug\net5.0\ATVitorCore.pdb
